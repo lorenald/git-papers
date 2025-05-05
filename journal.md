@@ -1,5 +1,5 @@
-#this is my super cool paper 
-Written by: ME!
+#this is our super cool paper 
+Written by: ME and JOHN!
 
 ## Introduction
 
